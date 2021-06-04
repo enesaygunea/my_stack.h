@@ -2,7 +2,7 @@
 *	Copyright (c) 2021 Enes AYGUN
 *	@file		my_stack.h
 *	@details	The Stack template class is a container adapter that gives the programmer the functionality of a stack - specifically,
-				a LIFO (last-in, first-out) data structure.
+			a LIFO (last-in, first-out) data structure.
 *	@author		Enes AYGUN, aygun.enes@outlook.com
 
 *	@note		This implementation not a proffesional but this helpfully understand the stack interface.
